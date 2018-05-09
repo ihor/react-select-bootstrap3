@@ -1,7 +1,27 @@
 {
   "name": "react-select-bootstrap3",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
+  "description": "Twitter Bootstrap styles for react-select component ",
+  "keywords": [
+    "react",
+    "react-select",
+    "bootstrap",
+    "style"
+  ],
+  "homepage": "https://github.com/ihor/react-select-bootstrap3",
+  "bugs": {
+    "url": "https://github.com/ihor/react-select-bootstrap3/issues"
+  },
+  "author": {
+    "name": "Ihor Burlachenko",
+    "email": "ihor.burlachenko@gmail.com",
+    "url": "http://ihor.burlachenko.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihor/react-select-bootstrap3.git"
+  },
   "scripts": {
     "build": "NODE_ENV=production && webpack --mode production"
   },
